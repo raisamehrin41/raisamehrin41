@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- My name is Raisa and I am currently working at KKCF
+- I have experience with HTML, CSS, and JavaScript
+- 
 <!--
 **raisamehrin41/raisamehrin41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
