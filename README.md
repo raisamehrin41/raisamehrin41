@@ -2,7 +2,8 @@
 
 - My name is Raisa and I am currently working at KKCF
 - I have experience with HTML, CSS, and JavaScript
-- 
+- I am currently learning how to apply and utilize Bootstrap on my projects
+- I 
 <!--
 **raisamehrin41/raisamehrin41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
